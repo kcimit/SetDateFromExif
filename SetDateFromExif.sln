@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetDateFromExif", "SetDateFromExif\SetDateFromExif.csproj", "{16EF1BED-0A54-44D3-BCD6-9A5F2A9FFE40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16EF1BED-0A54-44D3-BCD6-9A5F2A9FFE40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16EF1BED-0A54-44D3-BCD6-9A5F2A9FFE40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16EF1BED-0A54-44D3-BCD6-9A5F2A9FFE40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16EF1BED-0A54-44D3-BCD6-9A5F2A9FFE40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BB1AC01-458D-4D7C-AC6B-FE0FB6637088}
+	EndGlobalSection
+EndGlobal

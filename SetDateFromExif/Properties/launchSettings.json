@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SetDateFromExif": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\test\\1.txt"
+    }
+  }
+}
